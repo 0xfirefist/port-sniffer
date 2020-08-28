@@ -1,0 +1,1 @@
+// will define interfaces in this file that will be used everywhere
